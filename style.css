@@ -1,0 +1,327 @@
+.topbar-color
+{
+background:#F0F3F2;    
+}
+
+.top-first-left-right
+{
+display: flex;
+align-items: center;
+justify-content: space-between;    
+}
+
+
+.right-side-color
+{
+border: none;
+outline: none;   
+}
+
+.right-sidebar
+{
+display: flex;
+align-items: center;
+    
+}
+
+.emg
+{
+width: 25px;
+    
+}
+
+.header-middle-search-radius
+{
+border-radius: 8px;    
+}
+
+.btn-border
+{
+border: 1px solid rgb(233, 227, 227);
+width: 150px;    
+}
+
+.font
+{
+font-size: 9px;
+width: 15px;
+text-align: center;
+color: white;
+background: #0aad0a;
+}
+
+.red
+{
+color:#0aad0a;
+text-decoration: none;    
+}
+
+
+.redlight
+{
+color: #0aad0a;
+text-transform: capitalize;
+font-size: 12px;
+text-decoration: none; 
+margin-left: 10px;   
+}
+
+.m-signup
+{
+background: #0aad0a;
+color: white;
+outline: none;
+border: 1px solid #0aad0a;
+
+}
+
+
+.p-size{
+    font-size: 13px;
+
+}
+
+
+.canvas
+{
+margin-top: 55px !important ;    
+}
+
+
+
+/* offcanvas css start here */
+
+.offcanimg
+{
+width:55px;    
+}
+.ofcanwidth
+{
+width: 550px !important;    
+}
+
+.ico-color
+{
+color: #0aad0a;
+font-size: 18px;    
+}
+
+.can-li-span-width
+{
+
+font-size: 14px;
+text-transform: capitalize;
+font-weight: 700;
+
+}
+
+.button-minus
+{
+    background-color: transparent;
+    border-color:#dfdeda;
+    height: 2rem;
+    width: 1.8rem;    
+}
+
+.opacity
+{
+color: #97958e;
+
+}
+
+/* offcan css end here */
+
+
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+
+.nav-my-rule
+{
+background: #0aad0a;
+color: white !important;
+border-radius: 5px;
+    
+}
+
+.ul-hov
+{
+color: black;
+font-weight: 400;    
+transition: .5s;
+}
+
+.ul-hov:hover
+{
+color: #0aad0a !important;    
+}
+
+
+.my-design
+{
+color: white!important;
+border: 1px solid aqua !important;
+width: 20px !important;
+height:20px !important;
+border-radius: 50%;    
+}
+
+.round
+{
+border-radius: 20px !important;    
+}
+
+.slider-content
+{
+    padding: 150px 0 150px 30px
+}
+
+.laltu
+{
+display: flex;
+justify-content: space-between;    
+}
+
+
+.myimg1
+{
+
+width: 250px;
+   
+}
+
+.myimg1 span
+{
+margin-top: 20px ;    
+}
+
+
+.open
+{
+margin-bottom: 50px !important;    
+}
+
+.grocery-left 
+{
+width: 550px;
+height: 220px;  
+border-radius: 5px;
+position: relative;
+}
+
+.my-rule
+{
+ width: 100%;
+ height: 100%;   
+position: absolute;
+display: flex;
+flex-direction: column;
+justify-content: center;
+left: 20px;   
+}
+.btn-rule
+{
+width: 110px;
+height: 50px;
+border: 1px solid #001e2f;
+border-radius: 10px;
+margin-top: 30px;
+background: #001e2b;
+color: white;
+text-transform: capitalize;
+font-weight: 600;
+}
+.grocery-left img
+{
+width: 100%;  
+height: 100%;  
+}
+.grocery-right 
+{
+width: 550px; 
+height: 220px; 
+border-radius: 5px; 
+position: relative; 
+}
+.ter-rule
+{
+ width: 100%;
+ height: 100%;   
+position: absolute;
+display: flex;
+flex-direction: column;
+justify-content: center;
+left: 20px;   
+}
+.grocery-right img
+{
+width: 100%; 
+height: 100%;   
+}
+
+
+
+/* populer product design css */
+.kichu-kotha
+{
+margin-right: 150px;
+width: 50px;    
+border: 1px solid red;
+outline: none;
+background-color: red;
+color: white;
+border-radius: 10px;
+opacity: 5;
+margin-top: 10px;
+}
+
+.akta-btn-banaiya-den-vai
+{
+width:80px;
+height: 30px;
+background: #0aad0a;
+outline: none;
+color: white; 
+border: 1px solid #0aad0a;
+border-radius: 5px;   
+text-align: center;
+}
+.last-item
+{
+ margin-top: 20px;
+ margin-bottom: 10px;   
+}
+.amar-product
+{
+width: 230px;   
+display: flex;
+flex-direction: column;
+align-items: center; 
+border-radius:8px;
+transition: .5s;
+border: 1px solid black;
+}
+.amar-product:hover
+{
+color: #0aad0a;
+border-color: #0aad0a;
+
+}
+.last-item
+{
+width: 100%;
+display: flex;
+justify-content: space-evenly;    
+}
+
+
+.main-product
+{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 10px;    
+}
